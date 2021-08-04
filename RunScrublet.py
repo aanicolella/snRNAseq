@@ -1,3 +1,5 @@
+# Code written by Sean Simmons
+
 import scrublet as scr
 import scipy.io
 import matplotlib
@@ -24,4 +26,3 @@ doub_scores, predicted_doublets = scrub.scrub_doublets()
 
 print("Save!")
 np.savetxt(savename,doub_scores)
-
