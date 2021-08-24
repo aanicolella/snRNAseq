@@ -1,0 +1,13 @@
+library_id,molecule_h5
+EXPR-HT1,/path/to/data/data/mkfastq/EXPR-HT1/EXPR-HT1/outs/molecule_info.h5
+EXPR-HT2,/path/to/data/data/mkfastq/EXPR-HT2/EXPR-HT2/outs/molecule_info.h5
+EXPR-HT3,/path/to/data/data/mkfastq/EXPR-HT3/EXPR-HT3/outs/molecule_info.h5
+EXPR-HT4,/path/to/data/data/mkfastq/EXPR-HT4/EXPR-HT4/outs/molecule_info.h5
+EXPR-KO1,/path/to/data/data/mkfastq/EXPR-KO1/EXPR-KO1/outs/molecule_info.h5
+EXPR-KO2,/path/to/data/data/mkfastq/EXPR-KO2/EXPR-KO2/outs/molecule_info.h5
+EXPR-KO3,/path/to/data/data/mkfastq/EXPR-KO3/EXPR-KO3/outs/molecule_info.h5
+EXPR-KO4,/path/to/data/data/mkfastq/EXPR-KO4/EXPR-KO4/outs/molecule_info.h5
+EXPR-W1,/path/to/data/data/mkfastq/EXPR-W1/EXPR-W1/outs/molecule_info.h5
+EXPR-W2,/path/to/data/data/mkfastq/EXPR-W2/EXPR-W2/outs/molecule_info.h5
+EXPR-W3,/path/to/data/data/mkfastq/EXPR-W3/EXPR-W3/outs/molecule_info.h5
+EXPR-W4 ,/path/to/data/data/mkfastq/EXPR-W4/EXPR-W4/outs/molecule_info.h5
