@@ -1,3 +1,5 @@
+# Written by Sean Simmons
+
 #! /bin/bash
 
 #$ -cwd
