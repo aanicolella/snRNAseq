@@ -3,6 +3,7 @@ library("DESeq2")
 # Variables to replace
     # cellType: the name of the cell type you wish to analyze
     # EXP: the name of the dataset you wish to analyze (likely age_brainregion)
+    # DATE: date of the analysis
     # X, Y, Z: number of replicates for HT, KO, WT
 
 # Load cellType count sheet for cellType
