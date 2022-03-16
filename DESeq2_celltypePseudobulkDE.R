@@ -28,10 +28,6 @@ drop$counts <-
   drop$counts[apply(drop$length,
                             1,
                              function(row) !all(row > 5)),]
-drop$length <-
-  drop$length[apply(drop$length,
-                             1,
-                             function(row) !all(row > 5)),]
                     
 dropped <- drop$counts
 dropRes <- data.frame(row.names=make.unique(row.names(drop$counts)), matrix(ncol=6, nrow=dim(drop$counts)[1]))
@@ -48,10 +44,6 @@ rsem.in$abundance <-
                              function(row) all(row > 5 )),]
 rsem.in$counts <-
   rsem.in$counts[apply(rsem.in$length,
-                             1,
-                             function(row) all(row > 5 )),]
-rsem.in$length <-
-  rsem.in$length[apply(rsem.in$length,
                              1,
                              function(row) all(row > 5 )),]
 
