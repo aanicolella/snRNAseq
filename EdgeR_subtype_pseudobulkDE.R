@@ -1,4 +1,5 @@
 library(edgeR)
+library(fdrtool)
 ##### DE within cell types ######
 #input desired cell subtypes 
 celltypes <- c()
